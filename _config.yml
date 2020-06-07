@@ -1,0 +1,10 @@
+# basic options
+title: Thoughts-on-tech
+author: Chris Pedder
+email: chrisjbpedder@gmail.com
+description: A tech and ML blog
+github_username:  ChrisPedder
+
+# Build settings
+markdown: kramdown
+theme: minima
