@@ -1,10 +1,18 @@
-# basic options
-title: Thoughts-on-tech
-author: Chris Pedder
-email: chrisjbpedder@gmail.com
-description: A tech and ML blog
-github_username:  ChrisPedder
+title: Leaf Blog
+iconURL: assets/default-icon.png
+theme: jekyll-theme-leaf
 
-# Build settings
-markdown: kramdown
-theme: minima
+# for a clean URL
+permalink: :slug
+
+social:
+  github: ChrisPedder
+  Linkedin: chris-jb-pedder
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+### comments & analytics
+hyvor_talk_website_id: 14
+google_analytics: UA-NNNNNNNN-N

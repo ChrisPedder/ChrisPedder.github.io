@@ -8,7 +8,7 @@ I plan to use this is as a store for my thoughts on:
 
 - machine learning and NLP.
 - inference and statistics.
-- general technology 
+- general technology
 
 ## Contact
 
