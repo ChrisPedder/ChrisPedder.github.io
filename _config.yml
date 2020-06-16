@@ -7,7 +7,6 @@ permalink: :slug
 
 social:
   github: ChrisPedder
-  Linkedin: chris-jb-pedder
 
 plugins:
  - jekyll-feed
